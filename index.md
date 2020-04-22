@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Covid 19 Colombia
 
 You can use the [editor on GitHub](https://github.com/jdrealpec/covid_19_webtest/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
